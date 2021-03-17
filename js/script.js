@@ -40,6 +40,12 @@ $(document).ready(function(){
 	$("#jansatta").click(function(){
 		window.location.href = "https://epaper.jansatta.com/t/23814/?s=%E0%A4%B2%E0%A4%96%E0%A4%A8%E0%A4%8A";
 	});
+	$("#timesofindia").click(function(){
+		window.location.href = "https://timesofindia.indiatimes.com/";
+	});
+	$("#indiatoday").click(function(){
+		window.location.href = "https://www.indiatoday.in/";
+	});
 
 	// Mobile navigation
 	$(".menu .bars").click(function(){
