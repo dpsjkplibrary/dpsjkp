@@ -111,7 +111,15 @@ header#f_periodicals_header .top-con .top-bar .top-right{
 .periodics .p-icon img{
 	height: 40px;
 	width: auto;
-	/*border: 1px solid red;*/
+}
+
+.periodics .p-icon img:hover{
+	cursor: pointer;
+}
+
+.periodics .p-icon#timesofindia img{
+	height: 20px;
+	width: auto;
 }
 
 

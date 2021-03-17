@@ -25,25 +25,25 @@ $(document).ready(function(){
 
 
 	// periodical icons
-	$("#jagran").click(function(){
+	$("#jagran img").click(function(){
 		window.location.href = "https://www.jagran.com/";
 	});
-	$("#amarujala").click(function(){
+	$("#amarujala img").click(function(){
 		window.location.href = "https://epaper.amarujala.com/";
 	});
-	$("#hindustantimes").click(function(){
+	$("#hindustantimes img").click(function(){
 		window.location.href = "https://epaper.hindustantimes.com/Home/mIndex?htepaper=mobile&tstmp=1204202004";
 	});
-	$("#champak").click(function(){
+	$("#champak img").click(function(){
 		window.location.href = "http://www.champak.in/";
 	});
-	$("#jansatta").click(function(){
+	$("#jansatta img").click(function(){
 		window.location.href = "https://epaper.jansatta.com/t/23814/?s=%E0%A4%B2%E0%A4%96%E0%A4%A8%E0%A4%8A";
 	});
-	$("#timesofindia").click(function(){
+	$("#timesofindia img").click(function(){
 		window.location.href = "https://timesofindia.indiatimes.com/";
 	});
-	$("#indiatoday").click(function(){
+	$("#indiatoday img").click(function(){
 		window.location.href = "https://www.indiatoday.in/";
 	});
 
